@@ -188,6 +188,8 @@ void main(List<String> arguments) {
       print('tidak ada pilihan tersebut');
   }
 
+  // Latihan 4
+  // anjayyyyyy......
   String jumlahHari(int bulan) {
     switch (bulan) {
       case 1:
